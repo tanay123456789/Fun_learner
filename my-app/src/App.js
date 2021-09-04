@@ -1,11 +1,12 @@
 import React from 'react';
+import AndroidRoadmap from './components/roadmap/AndroidRoadmap';
 
-import NavBar from './components/NavBar';
+
 import './App.css';
 
 function App() {
   return (
-    <NavBar/>
+    <AndroidRoadmap/>
     
   );
 }
