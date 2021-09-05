@@ -1,7 +1,7 @@
 # Fun_learner
 #Features of App
-1. Track and learn Multiple Skill/Course at  one place
-2. learn from best of Free resources
+1.Track and learn Multiple Skill/Course at  one place
+2.learn from best of Free resources
 3.See your Progress in Progress Bar
 4.Complete all Tests and Master the Skills
 
