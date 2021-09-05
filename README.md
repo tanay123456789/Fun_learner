@@ -15,6 +15,10 @@ They can examine themself and boost their confidence giving the available Tests 
 **1)ReactJS:-** To develop the frontend part of application.
 
 ## Steps for installation
+1)Open your git terminal and type:-<br/>
+  **git clone url_of_repositry**<br/>
+  **cd my-app**<br/>
+  **npm install**<br/>
 
 
 ## Video Demo
