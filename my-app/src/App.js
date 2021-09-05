@@ -1,16 +1,16 @@
-import React from 'react';
-import AndroidRoadmap from './components/roadmap/AndroidRoadmap';
-import Start from './components/Start';
 
-import './App.css';
+import React from 'react'
+import Main from './component/main/Main'
+import Sidebar from './component/sidebar/Sidebar'
 
 function App() {
-  return (
-    <div>
-    <AndroidRoadmap/>
-    <Start/>
-    </div>
-  );
+    return (
+        <div>
+            <Sidebar/>
+            <Main />
+        </div>
+    )
+
 }
 
-export default App;
+export default App
